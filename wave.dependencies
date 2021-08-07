@@ -12,7 +12,7 @@
     "target_path": "vendor/xiaomi/sm6250-common"
   },
   {
-    "repository" : "Ramisky/kernel_xiaomi_sm6250",
+    "repository" : "sairam1411/kernel_xiaomi_sm6250",
     "target_path": "kernel/xiaomi/sm6250",
     "remote"     : "github"
   }
